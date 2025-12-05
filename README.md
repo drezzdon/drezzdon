@@ -1,19 +1,31 @@
-<p align="center"> <img width="500" height="300" alt="tumblr_850f70015c195c33ed40bec0a3f00284_c170245d_1280" src="https://github.com/user-attachments/assets/58739a89-13f0-4996-8597-edcc780a426a" />
+<p align="center"> <img width="500" height="300" alt="Untitled172_20251204115450" src="https://github.com/user-attachments/assets/a6e30e2c-49c6-448b-ba5c-08258576209a" />
 
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=drezzdon&label=folks.&color=1F6131">
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=drezzdon&label=folks.&color=9D9967">
 </p>
 
 
 <p align="center">
-  <img width="350" height="300" alt="Untitled166_20251129150150" src="https://github.com/user-attachments/assets/1cf15803-9966-4450-9e9a-026abce43ff5"/>
-</p>
+  <img width="350" height="350" alt="Untitled173_20251204120823" src=https://github.com/user-attachments/assets/957aa2bb-7d58-4f7e-a178-2cfb06a1b9c2 />
+
 
 
  <p align="center">
-  $$\color{green}{\mathscr{WIP.RMK}}$$
+  $$\color{9D9967}{\mathscr{I'm\ right\ where\ you\ left\ me.}}$$
 </p>
 
-<p align="center"> <img width="500" height="300" alt="tumblr_7b6e9813cbcbc11e0cb7575cef877d9c_0626e9ca_1280" src="https://github.com/user-attachments/assets/7e8df480-2de7-4192-b383-53d46c0be350" />
+ <p align="center">
+  $$\color{9D9967}{\mathscr{always\ iwc! . \ i\ can\ only\ talk\ to\ one\ person\ at\ a\ time!}}$$
+</p>
+
+
+
+<p align="center"> <img width="500" height="300" alt="Untitled172_20251204115455" src="https://github.com/user-attachments/assets/d500007e-5d71-4976-97e7-0306bb3265e3" />
+
+
+
+ <p align="center"> I DO NOT USE TONETAG EVEN IF YOU TELL ME SO PLEASE I DON'T USE TONE TAG IF YOU HAVE HYPERSENSITIVITY KINDLY BLOCK OR HIDE!! #JUSTICEFORMIKA THEY KEEP GETTING ATTACKED </p>
+
