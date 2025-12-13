@@ -27,3 +27,13 @@
 <p align="center">
   <a href="https://secondpartytime.straw.page/">1</a> . <a href="https://laluhhlala.atabook.org/">2</a> . <a href="https://github.com/eatmykind">3</a>
 </p>
+
+
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjuguoogupx2mu6o3rjvk5y&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=ffffff&bar_color_cover=false">
+  </a>
+</p>
+
+
