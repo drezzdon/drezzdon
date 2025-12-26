@@ -29,8 +29,7 @@ $$\color{#E31EA9}{\text{best viewed on desktop..}}$$
 
 $$\quad$$
 
-$$\color{#FBF748}{\text{ wip  }}$$
-
+$$\color{#FBF748}{\text{ wip }}$$
 
 $$\quad$$
 
@@ -40,8 +39,6 @@ $$\color{#FFFFFF}{\text{i used to be like, the richest player on the server. }}$
   <a href="https://drezzdon.straw.page">𝕾traw</a> . <a href="https://laluhhlala.atabook.org/">𝕬ta</a> . <a href="https://github.com/leow0oks">ℳain</a>
 </p>
 
-<br clear="left">
-
 
 
 <p align="center">
@@ -49,6 +46,33 @@ $$\color{#FFFFFF}{\text{i used to be like, the richest player on the server. }}$
        width="200"
        height="300">
 </p>
+
+<div align="center">
+  <span style="white-space:nowrap;">
+    <img src="https://github.com/user-attachments/assets/cd9f306c-9b24-4b33-928c-d42d5b4b0971"
+         width="99"
+         style="vertical-align:middle;">
+    <img src="https://github.com/user-attachments/assets/f201956f-8eed-474b-95f2-a173c8dcd8cc"
+         width="99"
+         style="vertical-align:middle;">
+  </span>/
+</div>
+
+
+<div align="center">
+  <span style="color:#FBF748;">hey !! ⌒ω⌒</span><br>
+  <a href="https://github.com/minvtetech" style="color:#FBF748;">minutetech</a>
+</div>
+
+
+<img width="2048" height="339" alt="tumblr_3084b0ec922f54f35f1807adba4cd392_eede19ca_2048" src="https://github.com/user-attachments/assets/974c538d-2fe1-499a-b5fb-1b30092fa98b" />
+
+
+  
+
+
+
+
 
 
 
@@ -63,3 +87,7 @@ $$\color{#FFFFFF}{\text{i used to be like, the richest player on the server. }}$
     height="300"
   >
 </div>
+
+
+
+
