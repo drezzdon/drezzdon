@@ -29,7 +29,7 @@ $$\color{#E31EA9}{\text{best viewed on desktop..}}$$
 
 $$\quad$$
 
-$$\color{#FBF748}{\text{ wip }}$$
+$$\color{#FBF748}{\text{ c+h freely unless said otherwise c: }}$$
 
 $$\quad$$
 
@@ -55,17 +55,18 @@ $$\color{#FFFFFF}{\text{i used to be like, the richest player on the server. }}$
     <img src="https://github.com/user-attachments/assets/f201956f-8eed-474b-95f2-a173c8dcd8cc"
          width="99"
          style="vertical-align:middle;">
-  </span>/
+  </span>
 </div>
 
 
 <div align="center">
-  <span style="color:#FBF748;">hey !! ⌒ω⌒</span><br>
+  <span style="color:#FBF748;">hey </span>
   <a href="https://github.com/minvtetech" style="color:#FBF748;">minutetech</a>
+  <span style="color:#FBF748;"> !! ⌒ω⌒</span>
 </div>
 
 
-<img width="2048" height="339" alt="tumblr_3084b0ec922f54f35f1807adba4cd392_eede19ca_2048" src="https://github.com/user-attachments/assets/974c538d-2fe1-499a-b5fb-1b30092fa98b" />
+
 
 
   
