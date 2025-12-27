@@ -47,16 +47,7 @@ $$\color{#FFFFFF}{\text{i used to be like, the richest player on the server. }}$
        height="300">
 </p>
 
-<div align="center">
-  <span style="white-space:nowrap;">
-    <img src="https://github.com/user-attachments/assets/cd9f306c-9b24-4b33-928c-d42d5b4b0971"
-         width="99"
-         style="vertical-align:middle;">
-    <img src="https://github.com/user-attachments/assets/f201956f-8eed-474b-95f2-a173c8dcd8cc"
-         width="99"
-         style="vertical-align:middle;">
-  </span>
-</div>
+
 
 
 <div align="center">
