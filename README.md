@@ -36,7 +36,7 @@ $$\quad$$
 $$\color{#FFFFFF}{\text{i used to be like, the richest player on the server. }}$$
 
 <p align="center">
-  <a href="https://drezzdon.straw.page">𝕾traw</a> . <a href="https://laluhhlala.atabook.org/">𝕬ta</a> . <a href="https://github.com/leow0oks">ℳain</a>
+  <a href="https://drezzdon.straw.page">𝕾traw</a> . <a href="https://laluhhlala.atabook.org/">𝕬ta</a> . <a href="https://github.com/eatmykind">ℳain</a>
 </p>
 
 
