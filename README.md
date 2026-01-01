@@ -9,7 +9,7 @@
   >
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://komarev.com/ghpvc/?username=leow0oks&label=spies.&color=7EB9D3"
+    src="https://komarev.com/ghpvc/?username=leow0oks&label=spies⸝⸝⸝&color=7EB9D3"
   >
 </div>
 
